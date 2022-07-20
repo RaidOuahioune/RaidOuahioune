@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# My name is Raid Ouahioune and I'm currently a student at the Higher National School of Artificial Intelligence(Ensia) from Algeria.
+## My name is Raid Ouahioune and I'm currently a student at the Higher National School of Artificial Intelligence(Ensia) from Algeria.
 
 
 ##Skills and Personal Details:
