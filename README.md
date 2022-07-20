@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## My name is Raid Ouahioune and I'm currently a student at the Higher National School of Artificial Intelligence(Ensia) from Algeria.
 
 
-##Skills and Personal Details:
+## Skills and Personal Details:
 
 1. I'm a cross platfrom mobile developer (mainly in android) using The great framework **Flutter** .
 2. I'm currently learning about web developement and backend stuff in particular and aiming to become a **MERN** developer
