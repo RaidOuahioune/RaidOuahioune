@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 2. I'm currently learning about web developement and backend stuff in particular and aiming to become a **MERN** developer
 3. I like learning new things and jumping from one technology to another (even though it could a bad habit sometimes :laughing:
 :satisfied:).
-4.I also enjoy solving math problems especially in probabilities and combinations.
+4. I also enjoy solving math problems especially in probabilities and combinations.
 5. My current **favorite** field in computer science is **AI** in general and that is because I was able to taste and feel the beauty of mathematics and its implementations in that field and enjoying all smart ways that AI masters have created to build all amazing things we see now.
 
