@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **raid.ouahioune@ensia.edu.dz**
 
-- ⚡ Fun fact **I love math and philosophy**
+- ⚡ Fun fact: **I love math and philosophy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
