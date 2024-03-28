@@ -1,5 +1,5 @@
-![Visitor Count](https://profile-counter.glitch.me/RaidOuahioune/count.svg)
 
+![](https://komarev.com/ghpvc/?username=RaidOuahioune)
 <h1 align="center">Hi 👋, I'm Ouahioune Raid Abderrezak</h1>
 <h3 align="center">A passionate junior data scientist and also a software developer (Mobile && Web)</h3>
 
