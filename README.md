@@ -1,21 +1,18 @@
 
 ![](https://komarev.com/ghpvc/?username=RaidOuahioune)
 <h1 align="center">Hi 👋, I'm Ouahioune Raid Abderrezak</h1>
-<h3 align="center">A passionate junior data scientist and also a software developer (Mobile && Web)</h3>
+<h3 align="center">A full stack web developer and a junior machine learning engineer</h3>
 
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raidouahioune" alt="raidouahioune" /></a> </p>
 
-- 🔭 I’m currently working on [Gostu](https://gostu.net)
-
-- 🌱 I’m currently learning **Netwoking and Data Science**
-
-- 💬 Ask me about **Backend and flutter development**
+- I'm currently obsessed with blockhain and web3 technologies.
+- I'm  intressted in any work oppurtunity in both research or production projects.
 
 - 📫 How to reach me **raid.ouahioune@ensia.edu.dz**
 
-- ⚡ Fun fact: **I love math and philosophy**
+- ⚡ Fun fact: **I love math and philosophy. I'm also a gym rat ! **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
